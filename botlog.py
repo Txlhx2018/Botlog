@@ -1,7 +1,7 @@
 import discord 
 from discord.ext import commands 
 
-client = commands.Bot(command_prefix =YOUR PREFIX')
+client = commands.Bot(command_prefix ='YOUR PREFIX')
 
 #Simple Botlog when the Bot joined a Guild or leave a Guild
 
